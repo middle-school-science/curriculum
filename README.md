@@ -1,4 +1,4 @@
-# Middle School Science Materials
+# Open Middle School Science
 
 An independent collection of **OpenSciEd middle-school educational materials**, with original credits, source links and edition information.
 
@@ -12,7 +12,9 @@ This snapshot was retrieved November 2–3, 2026. It covers the **original progr
 
 [Bundle sources, sizes and license locators](data/bundles.json) · [SHA256 archive checksums](SHA256SUMS.txt) · [Individual file inventory (JSONL)](data/files.jsonl)
 
-The catalogs provide portable, machine-readable access to the downloads and their contents. A hosted search application or MCP service is not yet provided.
+**[Search the curriculum](https://science.itjd.com/)** · **[Browse units](https://science.itjd.com/units)** · **[Use with Gemini, MCP or the JSON API](https://science.itjd.com/connect)** · **[Five-task teacher tryout](TEACHER-TRYOUT.md)**
+
+Free curriculum search for teachers and AI. Search results link to original PDFs and physical PDF pages. Gemini users can copy source text with citations; school-account custom MCP support is currently unavailable according to Google. This independent archive does not provide generated answers or replace the publisher’s guidance.
 
 ## Earlier standalone PDFs
 
