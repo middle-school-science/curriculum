@@ -1,26 +1,30 @@
-# Original middle-school unit collection
+# Original middle-school unit downloads
 
-Scope: the 18 original science units, grades 6–8. Computer-science-integrated variants, elementary, high-school and forthcoming 2.0 editions are separate. The unit map follows the [publisher's collection](https://openscied.org/curriculum/middle-school/explore-the-curriculum/), checked November 2, 2026. Links below are publisher pointers; their presence is not a claim that those materials are archived here.
+All 18 original science units, grades 6–8, are available as unchanged **Entire Unit screen-ready PDF bundles**, retrieved from OpenSciEd November 2–3, 2026. Each includes teacher and student editions and the accompanying PDFs supplied by the publisher, in their original folder structure. Sizes are decimal MB.
 
-| Unit | Topic | Teacher edition in this repository | Publisher |
-|---|---|---|---|
-| 6.1 | Light & Matter | Not yet included | [Unit overview](https://openscied.org/instructional-materials/6-1-light-matter/) |
-| 6.2 | Thermal Energy | [PDF](materials/grade-6/6.2/teacher-edition-2022.pdf) — Version 1.0; copyright 2022 | [Unit overview](https://openscied.org/instructional-materials/6-2-thermal-energy/) |
-| 6.3 | Weather, Climate & Water Cycling | Not yet included | [Unit overview](https://openscied.org/instructional-materials/6-3-weather-climate-water-cycling/) |
-| 6.4 | Plate Tectonics & Rock Cycling | Not yet included | [Unit overview](https://openscied.org/instructional-materials/6-4-rock-cycling-plate-tectonics/) |
-| 6.5 | Natural Hazards | Not yet included | [Unit overview](https://openscied.org/instructional-materials/6-5-natural-hazards/) |
-| 6.6 | Cells & Systems | [PDF](materials/grade-6/6.6/teacher-edition-2022.pdf) — Version 1.0; copyright 2022 | [Unit overview](https://openscied.org/instructional-materials/6-6-cells-systems/) |
-| 7.1 | Chemical Reactions & Matter | [PDF](materials/grade-7/7.1/teacher-edition-2022.pdf) — Version 1.0; copyright 2022; footer 12/6/22 | [Unit overview](https://openscied.org/instructional-materials/7-1-chemical-reactions-matter/) |
-| 7.2 | Chemical Reactions & Energy | Not yet included | [Unit overview](https://openscied.org/instructional-materials/7-2-chemical-reactions-energy/) |
-| 7.3 | Metabolic Reactions | [PDF](materials/grade-7/7.3/teacher-edition-2022.pdf) — Version 1.0; copyright 2022 | [Unit overview](https://openscied.org/instructional-materials/7-3-metabolic-reactions/) |
-| 7.4 | Matter Cycling & Photosynthesis | [PDF](materials/grade-7/7.4/teacher-edition-2020.pdf) — Copyright 2020; footer 12/14/20 | [Unit overview](https://openscied.org/instructional-materials/7-4-matter-cycling-photosynthesis/) |
-| 7.5 | Ecosystem Dynamics | Not yet included | [Unit overview](https://openscied.org/instructional-materials/7-5-ecosystem-dynamics/) |
-| 7.6 | Earth’s Resources & Human Impact | Not yet included | [Unit overview](https://openscied.org/instructional-materials/7-6-earths-resources-human-impact/) |
-| 8.1 | Contact Forces | Not yet included | [Unit overview](https://openscied.org/instructional-materials/8-1-contact-forces/) |
-| 8.2 | Sound Waves | Not yet included | [Unit overview](https://openscied.org/instructional-materials/8-2-sound-waves/) |
-| 8.3 | Forces at a Distance | Not yet included | [Unit overview](https://openscied.org/instructional-materials/8-3-forces-at-a-distance/) |
-| 8.4 | Earth in Space | Not yet included | [Unit overview](https://openscied.org/instructional-materials/8-4-earth-in-space/) |
-| 8.5 | Genetics | Not yet included | [Unit overview](https://openscied.org/instructional-materials/8-5-genetics/) |
-| 8.6 | Natural Selection & Common Ancestry | Not yet included | [Unit overview](https://openscied.org/instructional-materials/8-6-natural-selection-common-ancestry/) |
+| Unit | Topic | Bundle | PDF entries | Publisher |
+|---|---|---|---|---|
+| 6.1 | Light & Matter | [Download ZIP](https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-6.1-screen-ready.zip) · 412 MB | 168 | [Unit overview](https://openscied.org/instructional-materials/6-1-light-matter/) |
+| 6.2 | Thermal Energy | [Download ZIP](https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-6.2-screen-ready.zip) · 576 MB | 276 | [Unit overview](https://openscied.org/instructional-materials/6-2-thermal-energy/) |
+| 6.3 | Weather, Climate & Water Cycling | [Download ZIP](https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-6.3-screen-ready.zip) · 700 MB | 408 | [Unit overview](https://openscied.org/instructional-materials/6-3-weather-climate-water-cycling/) |
+| 6.4 | Plate Tectonics & Rock Cycling | [Download ZIP](https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-6.4-screen-ready.zip) · 879 MB | 272 | [Unit overview](https://openscied.org/instructional-materials/6-4-rock-cycling-plate-tectonics/) |
+| 6.5 | Natural Hazards | [Download ZIP](https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-6.5-screen-ready.zip) · 597 MB | 257 | [Unit overview](https://openscied.org/instructional-materials/6-5-natural-hazards/) |
+| 6.6 | Cells & Systems | [Download ZIP](https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-6.6-screen-ready.zip) · 655 MB | 337 | [Unit overview](https://openscied.org/instructional-materials/6-6-cells-systems/) |
+| 7.1 | Chemical Reactions & Matter | [Download ZIP](https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-7.1-screen-ready.zip) · 453 MB | 269 | [Unit overview](https://openscied.org/instructional-materials/7-1-chemical-reactions-matter/) |
+| 7.2 | Chemical Reactions & Energy | [Download ZIP](https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-7.2-screen-ready.zip) · 731 MB | 247 | [Unit overview](https://openscied.org/instructional-materials/7-2-chemical-reactions-energy/) |
+| 7.3 | Metabolic Reactions | [Download ZIP](https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-7.3-screen-ready.zip) · 508 MB | 316 | [Unit overview](https://openscied.org/instructional-materials/7-3-metabolic-reactions/) |
+| 7.4 | Matter Cycling & Photosynthesis | [Download ZIP](https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-7.4-screen-ready.zip) · 809 MB | 353 | [Unit overview](https://openscied.org/instructional-materials/7-4-matter-cycling-photosynthesis/) |
+| 7.5 | Ecosystem Dynamics | [Download ZIP](https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-7.5-screen-ready.zip) · 760 MB | 413 | [Unit overview](https://openscied.org/instructional-materials/7-5-ecosystem-dynamics/) |
+| 7.6 | Earth’s Resources & Human Impact | [Download ZIP](https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-7.6-screen-ready.zip) · 1054 MB | 464 | [Unit overview](https://openscied.org/instructional-materials/7-6-earths-resources-human-impact/) |
+| 8.1 | Contact Forces | [Download ZIP](https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-8.1-screen-ready.zip) · 846 MB | 350 | [Unit overview](https://openscied.org/instructional-materials/8-1-contact-forces/) |
+| 8.2 | Sound Waves | [Download ZIP](https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-8.2-screen-ready.zip) · 337 MB | 289 | [Unit overview](https://openscied.org/instructional-materials/8-2-sound-waves/) |
+| 8.3 | Forces at a Distance | [Download ZIP](https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-8.3-screen-ready.zip) · 299 MB | 226 | [Unit overview](https://openscied.org/instructional-materials/8-3-forces-at-a-distance/) |
+| 8.4 | Earth in Space | [Download ZIP](https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-8.4-screen-ready.zip) · 955 MB | 485 | [Unit overview](https://openscied.org/instructional-materials/8-4-earth-in-space/) |
+| 8.5 | Genetics | [Download ZIP](https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-8.5-screen-ready.zip) · 1054 MB | 484 | [Unit overview](https://openscied.org/instructional-materials/8-5-genetics/) |
+| 8.6 | Natural Selection & Common Ancestry | [Download ZIP](https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-8.6-screen-ready.zip) · 1350 MB | 468 | [Unit overview](https://openscied.org/instructional-materials/8-6-natural-selection-common-ancestry/) |
 
-Separate student editions, handouts, slides, media and supplementary assessments are not yet archived for any unit. No table entry claims classroom-ready completeness.
+The 6,082 PDF entries include repetitions organized by lesson and material type; there are 5,516 distinct file hashes. These are original-program snapshots, not Middle School 2.0. Separately hosted videos, simulations and editable Google Docs/Slides are not included. Computer-science variants and other grade bands are outside this collection.
+
+[Archive checksums](SHA256SUMS.txt) · [Bundle sources and license locators](data/bundles.json) · [Individual file inventory](data/files.jsonl) · [Attribution and reuse](ATTRIBUTION.md)
+
+The [publisher](https://openscied.org/curriculum/middle-school/explore-the-curriculum/) remains authoritative for corrections and newer editions. No classroom-ready completeness or latest-version guarantee is implied.

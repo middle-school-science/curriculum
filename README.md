@@ -2,7 +2,21 @@
 
 An independent collection of **OpenSciEd middle-school educational materials**, with original credits, source links and edition information.
 
-## Read and download
+## Download the 18 original units
+
+**[Browse unit downloads](UNITS.md)** · **[All 18 ZIPs on GitHub Releases](https://github.com/middle-school-science/curriculum/releases/tag/source-snapshot-2026-11-03)**
+
+The publisher's unchanged Entire Unit screen-ready PDF bundles cover grades 6–8: **6,082 PDF file entries (5,516 distinct hashes), about 13 GB total**. They include full teacher and student editions, lesson materials, slides, handouts, assessments and Spanish resources where supplied by the publisher. Original folders, credits and document bytes are preserved. Only the outer ZIP filenames are standardized.
+
+This snapshot was retrieved November 2–3, 2026. It covers the **original program**, not Middle School 2.0 or a guarantee of the newest edition. Separately hosted videos, simulations and editable Google Docs/Slides are not bundled; use the original documents' links for those resources.
+
+[Bundle sources, sizes and license locators](data/bundles.json) · [SHA256 archive checksums](SHA256SUMS.txt) · [Individual file inventory (JSONL)](data/files.jsonl)
+
+The catalogs provide portable, machine-readable access to the downloads and their contents. A hosted search application or MCP service is not yet provided.
+
+## Earlier standalone PDFs
+
+These seven complete PDFs remain available as dated standalone snapshots (1,877 pages). Their editions may differ from the newer full-unit bundles; [sources.json](sources.json) describes these seven files specifically.
 
 | Material | Edition | Original PDF |
 |---|---|---|
@@ -14,20 +28,10 @@ An independent collection of **OpenSciEd middle-school educational materials**, 
 | Teacher Handbook | Version 4.0; April 2022 | [66 pages](materials/program/teacher-handbook-v4-2022.pdf) |
 | Teacher Tools & Resources | January 2022 | [80 pages](materials/program/teacher-tools-and-resources-2022.pdf) |
 
-These seven complete source PDFs contain **1,877 pages**. This is a growing archive, **not the complete 18-unit program**. Full teacher editions for five units are included; separate student editions, slides, handouts, assessments and media are not yet collected. These dated original editions must not be confused with Middle School 2.0 or represented as the latest release.
-
-[Browse all 18 original units and collection status](UNITS.md) · [Credits and license](ATTRIBUTION.md) · [Sources, checksums and versions](sources.json)
-
 ## Attribution
 
 Educational materials © OpenSciEd and credited contributors, licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), subject to notices and exceptions within each document. Original PDFs are unchanged. Development-team credits, image credits and notices remain in the documents. See [ATTRIBUTION.md](ATTRIBUTION.md) before reusing them.
 
 This independent archive is not affiliated with or endorsed by OpenSciEd. The OpenSciEd name and logo are not licensed under CC BY; this project claims no trademark rights. Retained marks identify the original documents and are not this project's branding. No new certification or NGSS badge claim is made.
 
-## Collection priorities
-
-1. Obtain the remaining original teacher editions and all student-facing materials, preserving their original structure and credits.
-2. Verify editions, source completeness and specific asset notices; record missing files honestly.
-3. Add searchable text and programmatic access after preserving the educational originals.
-
-The publisher's [middle-school collection](https://openscied.org/curriculum/middle-school/explore-the-curriculum/) remains the source for current materials. Some full-unit downloads require a free OpenSciEd login. No login credentials or student information belong here.
+The publisher's [middle-school collection](https://openscied.org/curriculum/middle-school/explore-the-curriculum/) remains the source for current materials and corrections. This independent mirror offers direct downloads without an OpenSciEd account. No login credentials or student information belong here.

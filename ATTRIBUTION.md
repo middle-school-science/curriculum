@@ -2,13 +2,13 @@
 
 ## Educational materials
 
-These documents were created by **OpenSciEd and the development teams credited inside each PDF**. Each included PDF contains a Creative Commons Attribution 4.0 International notice. Preserve its title, creator credits, copyright, image notices and other attribution when redistributing. The [source manifest](sources.json) identifies the exact downloaded bytes, edition, retrieval date, original URL and PDF pages containing license notices.
+These documents were created by **OpenSciEd and the development teams credited inside each PDF**. Each included PDF contains a Creative Commons Attribution 4.0 International notice. Preserve its title, creator credits, copyright, image notices and other attribution when redistributing. The [bundle catalog](data/bundles.json) identifies the 18 original source ZIPs, exact bytes, retrieval dates, source URLs and license locators. Each full teacher edition has an explicit CC BY 4.0 notice on PDF page 4. The [individual file inventory](data/files.jsonl) records every contained path and checksum. The earlier [standalone source manifest](sources.json) covers the seven separately stored PDFs only.
 
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 Publisher: [OpenSciEd](https://openscied.org/).
 [Publisher's grade-specific license explanation](https://openscied.org/knowledge/what-does-it-mean-that-these-units-are-licensed-as-cc-by-4-0/).
 
-**Changes:** none to the included PDF files. They have been copied byte for byte and given descriptive repository filenames. The index, coverage descriptions and manifest are new collection metadata, not additions by OpenSciEd. No lessons, keys or scientific claims have been generated or inserted into the originals.
+**Changes:** none to the original ZIP bytes or included PDF files. ZIP outer download filenames are standardized; their internal paths and documents are unchanged. The seven earlier standalone PDFs have descriptive repository filenames. The index, coverage descriptions and manifest are new collection metadata, not additions by OpenSciEd. No lessons, keys or scientific claims have been generated or inserted into the originals.
 
 The 6.2 edition also credits *Energy: How can we design a device to warm something up?*, co-developed by San Francisco Unified School District and SCALE at Stanford University, 2017–2018, used with permission; its funding and full notice are preserved in the PDF. The 7.3 edition also credits *A Medical Mystery*, developed by BSCS Science Learning with Oregon Public Broadcasting, and its Three-dimensional teaching and learning project supported by the National Science Foundation; the full adaptation and funding notice remains in the PDF. All other contributor and funder credits remain in their original locations.
 
