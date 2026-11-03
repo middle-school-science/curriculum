@@ -1,0 +1,407 @@
+{
+  "status": "Published source snapshot, retrieved November 2\u20133, 2026",
+  "scope": "18 original OpenSciEd middle-school Entire Unit screen-ready PDF bundles",
+  "creator": "OpenSciEd",
+  "source": "https://openscied.org/curriculum/middle-school/explore-the-curriculum/",
+  "total_bytes": 12975012069,
+  "pdf_file_entries": 6082,
+  "assets": [
+    {
+      "unit": "6.1",
+      "asset_name": "openscied-6.1-screen-ready.zip",
+      "source_url": "https://openscied-uploads-production.s3.amazonaws.com/G6_ULT/lowres/OpenSciEd%20Unit%206.1.zip",
+      "source_download_page": "https://openscied.org/curriculum/middle-school/6-1-light-amp-matter-unit-download/",
+      "source_last_modified": "Thu, 16 Jan 2025 19:01:56 GMT",
+      "downloaded_on": "2026-11-03",
+      "bytes": 411919272,
+      "sha256": "0294513d0f27dfb46fd8aae010dc426bbb57fda0f016c74000cc4310ea8d546c",
+      "pdf_files": 168,
+      "creator": "OpenSciEd and credited contributors",
+      "license": "CC-BY-4.0; original document and asset notices retained",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": {
+        "document": "OpenSciEd Unit 6.1/6.1 Materials by Type/6.1 Teacher Edition.pdf",
+        "pdf_pages": [
+          4
+        ]
+      },
+      "changes": "No changes to ZIP bytes or contained documents; outer download filename standardized.",
+      "github_download_url": "https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-6.1-screen-ready.zip"
+    },
+    {
+      "unit": "6.2",
+      "asset_name": "openscied-6.2-screen-ready.zip",
+      "source_url": "https://openscied-uploads-production.s3.amazonaws.com/G6_UTH/lowres/OpenSciEd%20Unit%206.2.zip",
+      "source_download_page": "https://openscied.org/curriculum/middle-school/6-2-thermal-energy-unit-download/",
+      "source_last_modified": "Mon, 27 Jan 2025 17:25:52 GMT",
+      "downloaded_on": "2026-11-03",
+      "bytes": 575820910,
+      "sha256": "63a2f1ce53b062fd6902ce51cbe55631deed737e747ca3586e9601e451fb2e6e",
+      "pdf_files": 276,
+      "creator": "OpenSciEd and credited contributors",
+      "license": "CC-BY-4.0; original document and asset notices retained",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": {
+        "document": "OpenSciEd Unit 6.2/6.2 Materials by Type/6.2 Teacher Edition.pdf",
+        "pdf_pages": [
+          4
+        ]
+      },
+      "changes": "No changes to ZIP bytes or contained documents; outer download filename standardized.",
+      "github_download_url": "https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-6.2-screen-ready.zip"
+    },
+    {
+      "unit": "6.3",
+      "asset_name": "openscied-6.3-screen-ready.zip",
+      "source_url": "https://openscied-uploads-production.s3.amazonaws.com/G6_UWC/lowres/OpenSciEd%20Unit%206.3.zip",
+      "source_download_page": "https://openscied.org/curriculum/middle-school/6-3-weather-climate-water-cycling-unit-download/",
+      "source_last_modified": "Mon, 22 Dec 2025 13:25:08 GMT",
+      "downloaded_on": "2026-11-03",
+      "bytes": 700486207,
+      "sha256": "92654d1d614b3eef8466dd0845eac638751212f20058a5ea843810e4b4736067",
+      "pdf_files": 408,
+      "creator": "OpenSciEd and credited contributors",
+      "license": "CC-BY-4.0; original document and asset notices retained",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": {
+        "document": "OpenSciEd Unit 6.3/6.3 Materials by Type/6.3 Teacher Edition.pdf",
+        "pdf_pages": [
+          4
+        ]
+      },
+      "changes": "No changes to ZIP bytes or contained documents; outer download filename standardized.",
+      "github_download_url": "https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-6.3-screen-ready.zip"
+    },
+    {
+      "unit": "6.4",
+      "asset_name": "openscied-6.4-screen-ready.zip",
+      "source_url": "https://openscied-uploads-production.s3.amazonaws.com/G6_UPT/lowres/OpenSciEd%20Unit%206.4.zip",
+      "source_download_page": "https://openscied.org/curriculum/middle-school/6-4-plate-tectonics-rock-cycling-unit-download/",
+      "source_last_modified": "Tue, 09 Jun 2026 20:05:58 GMT",
+      "downloaded_on": "2026-11-03",
+      "bytes": 879334342,
+      "sha256": "eed455d249a8eb71030f07aefff4af24c1fd087ac736a6a30c938825d20f074d",
+      "pdf_files": 272,
+      "creator": "OpenSciEd and credited contributors",
+      "license": "CC-BY-4.0; original document and asset notices retained",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": {
+        "document": "OpenSciEd Unit 6.4/6.4 Materials by Type/6.4 Teacher Edition.pdf",
+        "pdf_pages": [
+          4
+        ]
+      },
+      "changes": "No changes to ZIP bytes or contained documents; outer download filename standardized.",
+      "github_download_url": "https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-6.4-screen-ready.zip"
+    },
+    {
+      "unit": "6.5",
+      "asset_name": "openscied-6.5-screen-ready.zip",
+      "source_url": "https://openscied-uploads-production.s3.amazonaws.com/G6_UNH/lowres/OpenSciEd%20Unit%206.5.zip",
+      "source_download_page": "https://openscied.org/curriculum/middle-school/6-5-natural-hazards-unit-download/",
+      "source_last_modified": "Fri, 06 Mar 2026 17:05:38 GMT",
+      "downloaded_on": "2026-11-03",
+      "bytes": 596697998,
+      "sha256": "60facb27edb1b2ec8acf1196ea81a743315ecfb1529062e3200917785f2f97f9",
+      "pdf_files": 257,
+      "creator": "OpenSciEd and credited contributors",
+      "license": "CC-BY-4.0; original document and asset notices retained",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": {
+        "document": "OpenSciEd Unit 6.5/6.5 Materials by Type/6.5 Teacher Edition.pdf",
+        "pdf_pages": [
+          4
+        ]
+      },
+      "changes": "No changes to ZIP bytes or contained documents; outer download filename standardized.",
+      "github_download_url": "https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-6.5-screen-ready.zip"
+    },
+    {
+      "unit": "6.6",
+      "asset_name": "openscied-6.6-screen-ready.zip",
+      "source_url": "https://openscied-uploads-production.s3.amazonaws.com/G6_UCL/lowres/OpenSciEd%20Unit%206.6.zip",
+      "source_download_page": "https://openscied.org/curriculum/middle-school/6-6-cells-systems-unit-download/",
+      "source_last_modified": "Wed, 29 Jan 2025 01:28:55 GMT",
+      "downloaded_on": "2026-11-03",
+      "bytes": 654716936,
+      "sha256": "98393effc2a17a8973eb4e4c58dd3e50f76eeef2ced5951f8c6c183fffe7572b",
+      "pdf_files": 337,
+      "creator": "OpenSciEd and credited contributors",
+      "license": "CC-BY-4.0; original document and asset notices retained",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": {
+        "document": "OpenSciEd Unit 6.6/6.6 Materials by Type/6.6 Teacher Edition.pdf",
+        "pdf_pages": [
+          4
+        ]
+      },
+      "changes": "No changes to ZIP bytes or contained documents; outer download filename standardized.",
+      "github_download_url": "https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-6.6-screen-ready.zip"
+    },
+    {
+      "unit": "7.1",
+      "asset_name": "openscied-7.1-screen-ready.zip",
+      "source_url": "https://openscied-uploads-production.s3.amazonaws.com/G7_UCA/lowres/OpenSciEd%20Unit%207.1.zip",
+      "source_download_page": "https://openscied.org/curriculum/middle-school/7-1-chemical-reactions-unit-download/",
+      "source_last_modified": "Fri, 01 Aug 2025 18:13:56 GMT",
+      "downloaded_on": "2026-11-03",
+      "bytes": 452530601,
+      "sha256": "e4975aec71cad22686bcb6448382b94f8055ff042918284f5b61f88e595bd5a3",
+      "pdf_files": 269,
+      "creator": "OpenSciEd and credited contributors",
+      "license": "CC-BY-4.0; original document and asset notices retained",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": {
+        "document": "OpenSciEd Unit 7.1/7.1 Materials by Type/7.1 Teacher Edition.pdf",
+        "pdf_pages": [
+          4
+        ]
+      },
+      "changes": "No changes to ZIP bytes or contained documents; outer download filename standardized.",
+      "github_download_url": "https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-7.1-screen-ready.zip"
+    },
+    {
+      "unit": "7.2",
+      "asset_name": "openscied-7.2-screen-ready.zip",
+      "source_url": "https://openscied-uploads-production.s3.amazonaws.com/G7_UCB/lowres/OpenSciEd%20Unit%207.2.zip",
+      "source_download_page": "https://openscied.org/curriculum/middle-school/7-2-chemical-reactions-energy-unit-download/",
+      "source_last_modified": "Wed, 18 Feb 2026 17:15:06 GMT",
+      "downloaded_on": "2026-11-03",
+      "bytes": 731077018,
+      "sha256": "b499c6c2614f702110549effd99380994d8ac301a51b0b9f0031bcb20e7cea55",
+      "pdf_files": 247,
+      "creator": "OpenSciEd and credited contributors",
+      "license": "CC-BY-4.0; original document and asset notices retained",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": {
+        "document": "OpenSciEd Unit 7.2/7.2 Materials by Type/7.2 Teacher Edition.pdf",
+        "pdf_pages": [
+          4
+        ]
+      },
+      "changes": "No changes to ZIP bytes or contained documents; outer download filename standardized.",
+      "github_download_url": "https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-7.2-screen-ready.zip"
+    },
+    {
+      "unit": "7.3",
+      "asset_name": "openscied-7.3-screen-ready.zip",
+      "source_url": "https://openscied-uploads-production.s3.amazonaws.com/G7_UMR/lowres/OpenSciEd%20Unit%207.3.zip",
+      "source_download_page": "https://openscied.org/curriculum/middle-school/7-3-metabolic-reactions-unit-download/",
+      "source_last_modified": "Thu, 18 Jun 2026 20:20:35 GMT",
+      "downloaded_on": "2026-11-03",
+      "bytes": 508421373,
+      "sha256": "cd5a1d54d1ff0d111060b8c2a6922878bbe7fa7f8f1e0f625f8ab0605f07215b",
+      "pdf_files": 316,
+      "creator": "OpenSciEd and credited contributors",
+      "license": "CC-BY-4.0; original document and asset notices retained",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": {
+        "document": "OpenSciEd Unit 7.3/7.3 Materials by Type/7.3 Teacher Edition.pdf",
+        "pdf_pages": [
+          4
+        ]
+      },
+      "changes": "No changes to ZIP bytes or contained documents; outer download filename standardized.",
+      "github_download_url": "https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-7.3-screen-ready.zip"
+    },
+    {
+      "unit": "7.4",
+      "asset_name": "openscied-7.4-screen-ready.zip",
+      "source_url": "https://openscied-uploads-production.s3.amazonaws.com/G7_UMC/lowres/OpenSciEd%20Unit%207.4.zip",
+      "source_download_page": "https://openscied.org/curriculum/middle-school/7-4-matter-cycling-photosynthesis-unit-download/",
+      "source_last_modified": "Mon, 27 Apr 2026 15:57:39 GMT",
+      "downloaded_on": "2026-11-03",
+      "bytes": 808944494,
+      "sha256": "e3a66c4725dc2ee7aa332f593c93e5c9fd62300232b3c4af621373357c603437",
+      "pdf_files": 353,
+      "creator": "OpenSciEd and credited contributors",
+      "license": "CC-BY-4.0; original document and asset notices retained",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": {
+        "document": "OpenSciEd Unit 7.4/7.4 Materials by Type/7.4 Teacher Edition.pdf",
+        "pdf_pages": [
+          4
+        ]
+      },
+      "changes": "No changes to ZIP bytes or contained documents; outer download filename standardized.",
+      "github_download_url": "https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-7.4-screen-ready.zip"
+    },
+    {
+      "unit": "7.5",
+      "asset_name": "openscied-7.5-screen-ready.zip",
+      "source_url": "https://openscied-uploads-production.s3.amazonaws.com/G7_UEC/lowres/OpenSciEd%20Unit%207.5.zip",
+      "source_download_page": "https://openscied.org/curriculum/middle-school/7-5-ecosystem-dynamics-unit-download/",
+      "source_last_modified": "Sat, 15 Nov 2025 20:53:30 GMT",
+      "downloaded_on": "2026-11-03",
+      "bytes": 759940075,
+      "sha256": "d1575b117695cdda4a4afff297aae8c89ba5c849290beb5c1356c424eefd1c60",
+      "pdf_files": 413,
+      "creator": "OpenSciEd and credited contributors",
+      "license": "CC-BY-4.0; original document and asset notices retained",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": {
+        "document": "OpenSciEd Unit 7.5/7.5 Materials by Type/7.5 Teacher Edition.pdf",
+        "pdf_pages": [
+          4
+        ]
+      },
+      "changes": "No changes to ZIP bytes or contained documents; outer download filename standardized.",
+      "github_download_url": "https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-7.5-screen-ready.zip"
+    },
+    {
+      "unit": "7.6",
+      "asset_name": "openscied-7.6-screen-ready.zip",
+      "source_url": "https://openscied-uploads-production.s3.amazonaws.com/G7_UER/lowres/OpenSciEd%20Unit%207.6.zip",
+      "source_download_page": "https://openscied.org/curriculum/middle-school/7-6-earths-resources-human-impact-unit-download/",
+      "source_last_modified": "Sun, 16 Nov 2025 17:35:54 GMT",
+      "downloaded_on": "2026-11-03",
+      "bytes": 1053643744,
+      "sha256": "7acb1b40f7351a41eaf695fb09dad83c5117da2cc22cf49a95e727883b695579",
+      "pdf_files": 464,
+      "creator": "OpenSciEd and credited contributors",
+      "license": "CC-BY-4.0; original document and asset notices retained",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": {
+        "document": "OpenSciEd Unit 7.6/7.6 Materials by Type/7.6 Teacher Edition.pdf",
+        "pdf_pages": [
+          4
+        ]
+      },
+      "changes": "No changes to ZIP bytes or contained documents; outer download filename standardized.",
+      "github_download_url": "https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-7.6-screen-ready.zip"
+    },
+    {
+      "unit": "8.1",
+      "asset_name": "openscied-8.1-screen-ready.zip",
+      "source_url": "https://openscied-uploads-production.s3.amazonaws.com/G8_UCF/lowres/OpenSciEd%20Unit%208.1.zip",
+      "source_download_page": "https://openscied.org/curriculum/middle-school/8-1-contact-forces-unit-download/",
+      "source_last_modified": "Tue, 15 Sep 2026 17:13:22 GMT",
+      "downloaded_on": "2026-11-03",
+      "bytes": 845636226,
+      "sha256": "22ff34cbac5819a8933fc319df790f7e8652a2b974608095662c9da23c28c2e4",
+      "pdf_files": 350,
+      "creator": "OpenSciEd and credited contributors",
+      "license": "CC-BY-4.0; original document and asset notices retained",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": {
+        "document": "OpenSciEd Unit 8.1/8.1 Materials by Type/8.1 Teacher Edition.pdf",
+        "pdf_pages": [
+          4
+        ]
+      },
+      "changes": "No changes to ZIP bytes or contained documents; outer download filename standardized.",
+      "github_download_url": "https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-8.1-screen-ready.zip"
+    },
+    {
+      "unit": "8.2",
+      "asset_name": "openscied-8.2-screen-ready.zip",
+      "source_url": "https://openscied-uploads-production.s3.amazonaws.com/G8_USO/lowres/OpenSciEd%20Unit%208.2.zip",
+      "source_download_page": "https://openscied.org/curriculum/middle-school/8-2-sound-waves-unit-download/",
+      "source_last_modified": "Thu, 25 Jun 2026 17:44:21 GMT",
+      "downloaded_on": "2026-11-03",
+      "bytes": 337317972,
+      "sha256": "4c0f3b4e8194bbf376d9bade5ba00def63ff14050fd1e50a4c4165087c564d2f",
+      "pdf_files": 289,
+      "creator": "OpenSciEd and credited contributors",
+      "license": "CC-BY-4.0; original document and asset notices retained",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": {
+        "document": "OpenSciEd Unit 8.2/8.2 Materials by Type/8.2 Teacher Edition.pdf",
+        "pdf_pages": [
+          4
+        ]
+      },
+      "changes": "No changes to ZIP bytes or contained documents; outer download filename standardized.",
+      "github_download_url": "https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-8.2-screen-ready.zip"
+    },
+    {
+      "unit": "8.3",
+      "asset_name": "openscied-8.3-screen-ready.zip",
+      "source_url": "https://openscied-uploads-production.s3.amazonaws.com/G8_UDF/lowres/OpenSciEd%20Unit%208.3.zip",
+      "source_download_page": "https://openscied.org/curriculum/middle-school/8-3-forces-at-a-distance-unit-download/",
+      "source_last_modified": "Thu, 13 Feb 2025 18:47:03 GMT",
+      "downloaded_on": "2026-11-03",
+      "bytes": 299133345,
+      "sha256": "a07623d81c6fac21ae19c7bd01dc5f8a81abbc5307e342b91a18197a03a2b91e",
+      "pdf_files": 226,
+      "creator": "OpenSciEd and credited contributors",
+      "license": "CC-BY-4.0; original document and asset notices retained",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": {
+        "document": "OpenSciEd Unit 8.3/8.3 Materials by Type/8.3 Teacher Edition.pdf",
+        "pdf_pages": [
+          4
+        ]
+      },
+      "changes": "No changes to ZIP bytes or contained documents; outer download filename standardized.",
+      "github_download_url": "https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-8.3-screen-ready.zip"
+    },
+    {
+      "unit": "8.4",
+      "asset_name": "openscied-8.4-screen-ready.zip",
+      "source_url": "https://openscied-uploads-production.s3.amazonaws.com/G8_USS/lowres/OpenSciEd%20Unit%208.4.zip",
+      "source_download_page": "https://openscied.org/curriculum/middle-school/8-4-earth-in-space-unit-download/",
+      "source_last_modified": "Fri, 18 Jul 2025 01:27:31 GMT",
+      "downloaded_on": "2026-11-03",
+      "bytes": 955371029,
+      "sha256": "aa76d49ec31a4bf17d263c7ed029c095ad68166b4f0a9b03a0645f2107536446",
+      "pdf_files": 485,
+      "creator": "OpenSciEd and credited contributors",
+      "license": "CC-BY-4.0; original document and asset notices retained",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": {
+        "document": "OpenSciEd Unit 8.4/8.4 Materials by Type/8.4 Teacher Edition.pdf",
+        "pdf_pages": [
+          4
+        ]
+      },
+      "changes": "No changes to ZIP bytes or contained documents; outer download filename standardized.",
+      "github_download_url": "https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-8.4-screen-ready.zip"
+    },
+    {
+      "unit": "8.5",
+      "asset_name": "openscied-8.5-screen-ready.zip",
+      "source_url": "https://openscied-uploads-production.s3.amazonaws.com/G8_UGE/lowres/OpenSciEd%20Unit%208.5.zip",
+      "source_download_page": "https://openscied.org/curriculum/middle-school/8-5-genetics-unit-download/",
+      "source_last_modified": "Tue, 18 Feb 2025 21:43:19 GMT",
+      "downloaded_on": "2026-11-03",
+      "bytes": 1054397937,
+      "sha256": "2770d82cb6af7606be6774f3e12ecde597061bb2b6b26b3a7b2611eecfbe9d94",
+      "pdf_files": 484,
+      "creator": "OpenSciEd and credited contributors",
+      "license": "CC-BY-4.0; original document and asset notices retained",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": {
+        "document": "OpenSciEd Unit 8.5/8.5 Materials by Type/8.5 Teacher Edition.pdf",
+        "pdf_pages": [
+          4
+        ]
+      },
+      "changes": "No changes to ZIP bytes or contained documents; outer download filename standardized.",
+      "github_download_url": "https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-8.5-screen-ready.zip"
+    },
+    {
+      "unit": "8.6",
+      "asset_name": "openscied-8.6-screen-ready.zip",
+      "source_url": "https://openscied-uploads-production.s3.amazonaws.com/G8_UNS/lowres/OpenSciEd%20Unit%208.6.zip",
+      "source_download_page": "https://openscied.org/curriculum/middle-school/8-6-natural-selection-common-ancestry-unit-download/",
+      "source_last_modified": "Wed, 18 Mar 2026 20:51:03 GMT",
+      "downloaded_on": "2026-11-03",
+      "bytes": 1349622590,
+      "sha256": "6a065bfa0905b61b15fe0a7bf0b293c2a1e146f847f01675e4571e50153da284",
+      "pdf_files": 468,
+      "creator": "OpenSciEd and credited contributors",
+      "license": "CC-BY-4.0; original document and asset notices retained",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": {
+        "document": "OpenSciEd Unit 8.6/8.6 Materials by Type/8.6 Teacher Edition.pdf",
+        "pdf_pages": [
+          4
+        ]
+      },
+      "changes": "No changes to ZIP bytes or contained documents; outer download filename standardized.",
+      "github_download_url": "https://github.com/middle-school-science/curriculum/releases/download/source-snapshot-2026-11-03/openscied-8.6-screen-ready.zip"
+    }
+  ],
+  "release_url": "https://github.com/middle-school-science/curriculum/releases/tag/source-snapshot-2026-11-03"
+}
