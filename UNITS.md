@@ -7,7 +7,7 @@ Scope: the 18 original science units, grades 6–8. Computer-science-integrated 
 | 6.1 | Light & Matter | Not yet included | [Unit overview](https://openscied.org/instructional-materials/6-1-light-matter/) |
 | 6.2 | Thermal Energy | [PDF](materials/grade-6/6.2/teacher-edition-2022.pdf) — Version 1.0; copyright 2022 | [Unit overview](https://openscied.org/instructional-materials/6-2-thermal-energy/) |
 | 6.3 | Weather, Climate & Water Cycling | Not yet included | [Unit overview](https://openscied.org/instructional-materials/6-3-weather-climate-water-cycling/) |
-| 6.4 | Plate Tectonics & Rock Cycling | Not yet included | [Unit overview](https://openscied.org/instructional-materials/6-4-plate-tectonics-rock-cycling/) |
+| 6.4 | Plate Tectonics & Rock Cycling | Not yet included | [Unit overview](https://openscied.org/instructional-materials/6-4-rock-cycling-plate-tectonics/) |
 | 6.5 | Natural Hazards | Not yet included | [Unit overview](https://openscied.org/instructional-materials/6-5-natural-hazards/) |
 | 6.6 | Cells & Systems | [PDF](materials/grade-6/6.6/teacher-edition-2022.pdf) — Version 1.0; copyright 2022 | [Unit overview](https://openscied.org/instructional-materials/6-6-cells-systems/) |
 | 7.1 | Chemical Reactions & Matter | [PDF](materials/grade-7/7.1/teacher-edition-2022.pdf) — Version 1.0; copyright 2022; footer 12/6/22 | [Unit overview](https://openscied.org/instructional-materials/7-1-chemical-reactions-matter/) |
